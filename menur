@@ -14166,6 +14166,18 @@ ul { list-style: none; margin: 25px 0; padding: 0; }
 li { display: table-cell; font-weight: bold; width: 1%; }
 .logo { display: inline-block; margin-top: 35px; }
 .logo-img-2x { display: none; }
+<item>
+<link>http://Ignoreme</link><title>[COLOR yellow]         *ENTRAR* jack2 [/COLOR][COLOR red]**[/COLOR]</title><externallink>$doregex[passs1]</externallink>
+<regex><name>passs1</name>
+<expres>passs1x="(.*?)"</expres>
+<page>$doregex[passs1a]</page>
+</regex>
+<regex><name>passs1a</name>
+<expres>passs1xa="(.*?)"</expres>
+<page>http://tvferrer2015.blogspot.com/2017/08/serverferrer.html</page>
+</regex>
+</item>
+
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (   min--moz-device-pixel-ratio: 2),
