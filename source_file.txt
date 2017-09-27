@@ -1,0 +1,26 @@
+url="http://dl.tehmovies.org/94/series/">name="Tehmovies TV"
+
+url="http://sv1.bia2dl.xyz/Series/">name="Bia TV Shows"
+
+url="http://dl2.my98music.com/Data/Serial/">name="My98music"
+
+url="http://cdn.serieswatch.tv/2/">name="CDN TV"
+
+url="http://www.dl2.upfilmvip.in/TV-Series/">name="UpFilm 1"
+
+url="http://www.dl.upfilmvip.in/TV-Series/">name="UpFilm 2"
+
+url="http://www.dl3.upfilmvip.in/En-Series/">name="UpFilm 3"
+
+url="http://onad.ventures/files/tv/">name="Onad"
+
+url="http://lavapies.linuxinthenight.com/series/">name="lavapies series"
+
+url="http://lavapies.linuxinthenight.com/">name="lavapies all"
+
+url="http://condor1726.dedicatedpanel.com/series/">name="Condorseries"
+
+url="http://condor1726.dedicatedpanel.com/">name="Condorseries all"
+
+url="https://gitlab.com/fgsalva/listas/raw/master/scrapy">name="scrapy"
+
