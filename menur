@@ -14161,9 +14161,9 @@ a:hover { text-decoration: underline; }
 h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
 p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
 ul { list-style: none; margin: 25px 0; padding: 0; }li { display: table-cell; font-weight: bold; width: 1%; }.logo { display: inline-block; margin-top: 35px; }logo-img-2x { display: none; }
-<item><link>http://Ignoreme</link><title>[COLOR yellow]*Haga Clic Aca*[/COLOR][COLOR red] *Jack2*[/COLOR]</title><externallink>$doregex[passs1]</externallink>
+<item><link>http://Ignoreme</link><title>[COLOR yellow]*Haga Clic Aca (pendientes)*[/COLOR][COLOR red] *Jack2*[/COLOR]</title><externallink>$doregex[passs1]</externallink>
 <regex><name>passs1</name><expres>passs1x="(.*?)"</expres><page>$doregex[passs1a]</page></regex><regex><name>passs1a</name><expres>passs1xa="(.*?)"</expres>
-<page>http://tvferrer2015.blogspot.com/2017/08/serverferrer.html</page></regex></item>
+<page>http://tvferrer2015.blogspot.com/2017/08/serverferrer(estono).html</page></regex></item>
 @mediaonly screen and (-webkit-min-device-pixel-ratio: 2),only screen and (   min--moz-device-pixel-ratio: 2),
 only screen and (     -o-min-device-pixel-ratio: 2/1),
 only screen and (        min-device-pixel-ratio: 2),
